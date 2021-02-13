@@ -11,6 +11,7 @@ This is used to generate discord.gift
 
 You may need python and packages to run this
 1: Install *Python* [Ignore if you already have]
+
 2: Packages Command: `pip install colorama`
 
 # How to run
