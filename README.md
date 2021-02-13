@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://www.codefactor.io/repository/github/Bennitenni111/Nitro-Generator/badge" /> 
   <img src="https://img.shields.io/github/issues/Bennitenni111/Nitro-Generator?style=flat" />
   <img src="https://img.shields.io/github/stars/Bennitenni111/Nitro-Generator?style=flat" />
 </p>
