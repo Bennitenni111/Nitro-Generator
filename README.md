@@ -1,10 +1,8 @@
-<head>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-  </head>
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/Bennitenni111/Nitro-Generator/archive/master.zip" data-icon="octicon-download" aria-label="">Download</a>
-
+<p align="center">
+  <img src="https://www.codefactor.io/repository/github/Bennitenni111/Nitro-Generator/badge" /> 
+  <img src="https://img.shields.io/github/issues/Bennitenni111/Nitro-Generator?style=flat" />
+  <img src="https://img.shields.io/github/stars/Bennitenni111/Nitro-Generator?style=flat" />
+</p>
 
 
 # Nitro-Generator
