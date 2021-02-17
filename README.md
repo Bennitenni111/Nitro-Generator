@@ -16,3 +16,6 @@ You may need python and packages to run this
 
 # How to run
 Command to run `python main.py`
+
+#Read Me
+```Use this at your own risk, because this is technically stealing nitro of peoples who bought them```
