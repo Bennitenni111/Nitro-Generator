@@ -3,16 +3,7 @@ from colorama import init, Fore
 import webbrowser
 
 
-print(Fore.GREEN + '''
- █████╗ ███╗   ██╗ ██████╗ ███╗   ██╗██╗██╗  ██╗
-██╔══██╗████╗  ██║██╔═══██╗████╗  ██║██║╚██╗██╔╝
-███████║██╔██╗ ██║██║   ██║██╔██╗ ██║██║ ╚███╔╝
-██╔══██║██║╚██╗██║██║   ██║██║╚██╗██║██║ ██╔██╗
-██║  ██║██║ ╚████║╚██████╔╝██║ ╚████║██║██╔╝ ██╗
-╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝
-''')
-print("It will only generate nitro for you, you need checker to check them find them online.\n")
-print("We do not allow copies of this generator, we don't recommend making a video on it, we will take it down.\n")
+print("This generator is only for educational purposes, theres is 0.0000001% chance that you'll get a nitro from it. \n")
 input("Press enter if you agree to this, program will start\n")
 
 
